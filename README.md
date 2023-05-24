@@ -64,19 +64,22 @@ POS, API Integration, Website, WMS(Warehouse Management System), MRP, Sales, Pur
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
+<hr>
+<h2 align="center">Communication - the human connection - is the key to personal and success !</h2>
 
-<!-- links to social media icons -->
-[1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (Twitter profile of Abuemira)
-[2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn profile of Abuemira)
-[3.1]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (Email Id of Abuemira)
-[4.1]:https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white  (Facebook profile of Abuemira)
+<h1 align="center">Let's Get Connected</h1>
 
+Recently I have started A Youtube Channel & telegram channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help</p>
 
-<!-- links to social media accounts -->
-[1]: https://twitter.com/MohamedAbuemira/
-[2]: https://www.linkedin.com/in/abuemira/
-[3]: mailto:mohamed.abuemira@gmail.com
-[4]: https://www.facebook.com/mohamed.abuemira/
+<div align="center">
+
+<a  href="https://www.linkedin.com/in/abuemira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/rohan_2502" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:mohamed.abuemira@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.facebook.com/mohamed.abuemira/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
+<a  href="https://t.me/mohamed.abuemira"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+</div>
 
 
 <!---
