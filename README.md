@@ -18,6 +18,8 @@ keep understanding customer needs and perform successful implementation.
 -  Inventory and Manufacturing
 - Sales & CRM
 - Human Resource
+- Website Apps
+- Services Apps
 
 
 ## industries 
