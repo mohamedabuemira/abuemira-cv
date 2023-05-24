@@ -33,7 +33,7 @@ keep understanding customer needs and perform successful implementation.
 
 ## Skills
 ### Top skills
-- ERP Software
+- ERP Software •
 - Odoo • 
 - Business Analyst • 
 - Financial Accounting •
@@ -69,7 +69,7 @@ POS, API Integration, Website, WMS(Warehouse Management System), MRP, Sales, Pur
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (Twitter profile of Abuemira)
 [2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn profile of Abuemira)
 [3.1]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (Email Id of Abuemira)
-[4.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white (Facebook profile of Abuemira)
+[4.1]:https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white  (Facebook profile of Abuemira)
 
 
 <!-- links to social media accounts -->
