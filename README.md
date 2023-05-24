@@ -56,14 +56,7 @@ POS, API Integration, Website, WMS(Warehouse Management System), MRP, Sales, Pur
 - Git, GitHub, GitLab, CI/CD Pipeline
 
 
-### Connect with me
-<!-- Grab your social icons from https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md -->
 
-<!-- display the social media buttons-->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
 <hr>
 <h2 align="center">Communication - the human connection - is the key to personal and success !</h2>
 
@@ -72,7 +65,7 @@ POS, API Integration, Website, WMS(Warehouse Management System), MRP, Sales, Pur
 Recently I have started A Youtube Channel & telegram channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help</p>
 
 <div align="center">
-
+<a  href="https://www.youtube.com/channel/UCRbHttqDCt28Uv7-e18YEjQ" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a  href="https://www.linkedin.com/in/abuemira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/MohamedAbuemira" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:mohamed.abuemira@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
