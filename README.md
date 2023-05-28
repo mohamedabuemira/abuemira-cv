@@ -1,11 +1,11 @@
-## Hi there, I'm Mohamed Essam Abu Emira. 👋 
+## Hi there, I'm Mohamed Essam Abu Emira. 👋 👋
 ### I'm Odoo Functional Consultant with a passion for ERP/eCommerce implementations.
 
-- :telescope: The majority of my experience in Odoo ERP and eCommerce implementations dates back to 10+ years.
+- 🔭 telescope: The majority of my experience in Odoo ERP and eCommerce implementations dates back to 10+ years.
 - 👀 During my free time, I enjoy working with studying accounting and studying Programming basics with Python.
 - 🌱 I’m currently learning Business Analyst and PMP.
 - 💞️ Goals: Start contributing to Open Source projects.
-- 💞️️ Fun fact: I love to play games and watch Football.
+- ⚡  Fun fact: I love to play games and watch Football.
 
 
 ## About
@@ -38,6 +38,16 @@ keep understanding customer needs and perform successful implementation.
 - Business Analyst • 
 - Financial Accounting •
 - Supply Chain Management•
+
+
+---
+
+![oumayma's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedabuemira&show_icons=true&count_private=true)
+
+[linkedin]: https://www.linkedin.com/in/mohamedabuemira
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabuemira&layout=compact&langs_count=8)](https://github.com/mohamedabuemira/github-readme-stats)
+
 
 ### Frameworks
 - Odoo/openerp : I've experience working with end-users for complete ERP & eCommerce solutions. 
