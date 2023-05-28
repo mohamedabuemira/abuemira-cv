@@ -41,10 +41,16 @@ keep understanding customer needs and perform successful implementation.
 
 
 ---
-## Github Stats
+
+
 ![oumayma's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedabuemira&show_icons=true&count_private=true)
 
-[![overview](https://raw.githubusercontent.com/tbxark-archive/.github/master/status/generated/overview.svg)](https://github.com/mohamedabuemira/mohamedabuemira) [![languages](https://raw.githubusercontent.com/mohamedabuemira-archive/.github/master/status/generated/languages.svg)](https://github.com/mohamedabuemira/mohamedabuemira)
+[linkedin]: https://www.linkedin.com/in/mohamedabuemira
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabuemira&layout=compact&langs_count=8)](https://github.com/mohamedabuemira/github-readme-stats)
+
+
+
 
 
 ### Frameworks
