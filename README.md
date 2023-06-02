@@ -37,6 +37,7 @@
 - Business Analyst • 
 - Financial Accounting •
 - Supply Chain Management•
+- Sales and CRM
 
 
 ---
