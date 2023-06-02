@@ -9,8 +9,7 @@
 
 
 ## About
-#Odoo Techno Functional with real experience in implementing financial , trade & logistics , planning and manufacturing technical and business skills.
-keep understanding customer needs and perform successful implementation.
+#Odoo Techno Functional with real experience in implementing financial and  supply chain management,sales , CRM, planning , manufacturing and HRM. technical and business skills keep understanding customer needs and perform successful implementation. .
 
 ## modules & apps  
 - Accounting , 
