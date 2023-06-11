@@ -17,6 +17,7 @@
 -  Inventory and Manufacturing
 - Sales & CRM
 - Human Resource
+- Project Management App
 - Website Apps
 - Services Apps
 
