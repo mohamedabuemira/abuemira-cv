@@ -1,7 +1,7 @@
 ## Hi there, I'm Mohamed Essam Abu Emira. 👋 👋
-### I'm Odoo Functional Consultant with a passion for ERP/eCommerce implementations.
+### I'm Odoo, a Functional Consultant passionate about ERP/eCommerce implementations.
 
-- 🔭 telescope: The majority of my experience in Odoo ERP and eCommerce implementations dates back to 10+ years.
+- 🔭 telescope: Most of my experience in Odoo ERP and eCommerce implementations dates back to 10+ years.
 - 👀 During my free time, I enjoy working with studying accounting and studying Programming basics with Python.
 - 🌱 I’m currently learning Business Analyst and PMP.
 - 💞️ Goals: Start contributing to Open Source projects.
@@ -9,10 +9,10 @@
 
 
 ## About
-#Odoo Techno Functional with real experience in implementing financial and  supply chain management,sales , CRM, planning , manufacturing and HRM. technical and business skills keep understanding customer needs and perform successful implementation. .
+#Odoo Techno Functional with real experience in implementing financial and  supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation.
 
 ## modules & apps  
-- Accounting , 
+- Accounting, 
 - Supply chain management
 -  Inventory and Manufacturing
 - Sales & CRM
@@ -23,10 +23,10 @@
 
 
 ## industries 
-- Food , 
+- Food, 
 - Trade & Logistics , 
-- Manufacturing , 
-- Outsourcing , 
+- Manufacturing, 
+- Outsourcing, 
 - Construction, 
 - Real estate
 - Logistics
@@ -77,7 +77,7 @@ POS, API Integration, Website, WMS(Warehouse Management System), MRP, Sales, Pur
 
 <h1 align="center">Let's Get Connected</h1>
 
-Recently I have started A Youtube Channel & telegram channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIn and Twitter as well. You can reach out to me. I will be happy to help</p>
+Recently, I have started A YouTube channel & telegram channel in which I will try to share my knowledge and about opportunities I know. I am active on LinkedIn and Twitter as well. You can reach out to me. I will be happy to help</p>
 
 <div align="center">
 <a  href="https://www.youtube.com/channel/UCRbHttqDCt28Uv7-e18YEjQ" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
@@ -86,7 +86,7 @@ Recently I have started A Youtube Channel & telegram channel in which will try t
 <a href="mailto:mohamed.abuemira@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.facebook.com/mohamed.abuemira/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
 <a  href="https://t.me/mohamedabuemira"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="[https://t.me/mohamedabuemira](https://bento.me/abuemira)"> </a>
+<a  href="https://t.me/mohamedabuemira](https://bento.me/abuemira)"> target="_blank"><img alt="Bento"  /></a>
 </div>
 
 
