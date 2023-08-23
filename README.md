@@ -86,7 +86,7 @@ Recently I have started A Youtube Channel & telegram channel in which will try t
 <a href="mailto:mohamed.abuemira@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.facebook.com/mohamed.abuemira/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
 <a  href="https://t.me/mohamedabuemira"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
+<a  href="[https://t.me/mohamedabuemira](https://bento.me/abuemira)">
 </div>
 
 
