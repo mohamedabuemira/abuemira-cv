@@ -77,7 +77,7 @@ POS, API Integration, Website, WMS(Warehouse Management System), MRP, Sales, Pur
 
 <h1 align="center">Let's Get Connected</h1>
 
-Recently I have started A Youtube Channel & telegram channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help</p>
+Recently I have started A Youtube Channel & telegram channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIn and Twitter as well. You can reach out to me. I will be happy to help</p>
 
 <div align="center">
 <a  href="https://www.youtube.com/channel/UCRbHttqDCt28Uv7-e18YEjQ" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
@@ -86,7 +86,7 @@ Recently I have started A Youtube Channel & telegram channel in which will try t
 <a href="mailto:mohamed.abuemira@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.facebook.com/mohamed.abuemira/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
 <a  href="https://t.me/mohamedabuemira"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="[https://t.me/mohamedabuemira](https://bento.me/abuemira)">
+<a  href="[https://t.me/mohamedabuemira](https://bento.me/abuemira)"> </a>
 </div>
 
 
