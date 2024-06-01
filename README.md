@@ -14,8 +14,8 @@
 ## modules & apps  
 - Accounting, 
 - Supply chain management
--  Inventory and Manufacturing
-- Sales & CRM
+- Inventory and Manufacturing
+- Sales & CRM & POS
 - Human Resource
 - Project Management App
 - Website Apps
