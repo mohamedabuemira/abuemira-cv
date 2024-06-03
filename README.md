@@ -1,6 +1,7 @@
 ## Hi there, I'm Mohamed Essam Abu Emira. 👋 👋
 ### I'm Odoo, a Functional Consultant passionate about ERP/eCommerce implementations.
 
+
 - 🔭 telescope: Most of my experience in Odoo ERP and eCommerce implementations dates back to 10+ years.
 - 👀 During my free time, I enjoy working with studying accounting and studying Programming basics with Python.
 - 🌱 I’m currently learning Business Analyst and PMP.
