@@ -1,5 +1,5 @@
 ## Hi there, I'm Mohamed Essam Abu Emira. 👋 👋
-### I'm Odoo, a Functional Consultant passionate about ERP/eCommerce implementations.
+### I'm  ERP Functional Consultant passionate about ERP/eCommerce implementations.
 
 
 - 🔭 telescope: Most of my experience in Odoo ERP and eCommerce implementations dates back to 10+ years.
@@ -11,7 +11,8 @@
 
 
 ## About
-#Odoo Techno Functional with real experience in implementing financial and  supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation.
+#I'm Odoo Techno Functional with real experience in implementing financial and  supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation.with experience implementing financial and supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation.
+specialist: financial, trade & logistics, discrete manufacturing, process manufacturing, HR, Real estate.
 
 ## modules & apps  
 - Accounting, 
