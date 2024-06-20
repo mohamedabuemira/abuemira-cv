@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Business Analyst and PMP.
 - 💞️ Goals: Start contributing to Open Source projects.
 - ⚡  Fun fact: I love to play games and watch Football.
+- - 💻 &nbsp;Goals: Improve my technical and soft skills. 
 
 
 ## About
@@ -86,7 +87,8 @@ Recently, I have started A YouTube channel & telegram channel in which I will tr
 <a href="https://twitter.com/MohamedAbuemira" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:mohamed.abuemira@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.facebook.com/mohamed.abuemira/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
-<a  href="https://t.me/mohamedabuemira"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://t.me/mohamedabuemira"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  
+<a href="https://api.whatsapp.com/send?phone=+201005061349&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201005061349&text=Hi!" alt="Whatsapp"></a>
 <a  href="https://bento.me/abuemira"  target="_blank"> Bento </a>
 </div>
 
