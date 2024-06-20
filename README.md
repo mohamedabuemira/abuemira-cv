@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Business Analyst and PMP.
 - 💞️ Goals: Start contributing to Open Source projects.
 - ⚡  Fun fact: I love to play games and watch Football.
-- - 💻 &nbsp;Goals: Improve my technical and soft skills. 
+-  💻 &nbsp;Goals: Improve my technical and soft skills. 
 
 
 ## About
