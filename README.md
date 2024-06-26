@@ -36,7 +36,7 @@ specialist: financial, trade & logistics, discrete manufacturing, process manufa
 
 ## Skills
 ### Top skills
-- ERP Software •
+- ERP Solutions •
 - Odoo • 
 - Business Analyst •
 - User Training •
